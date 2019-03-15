@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(https://www.maxpixel.net/static/photo/2x/Bokeh-Effect-Green-Green-Color-Christmas-Bokeh-3003677.jpg)
+}
+
+.container{
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: #ffd700;
+    font-family: 'Diplomata', cursive;
+    font-size: 50px;
+    padding: 1rem 2rem;
+}
+
+.row{
+    line-height: 30px;
+    font-size: 20px;
+    text-align: left;
+}
+
