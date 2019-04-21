@@ -1,5 +1,5 @@
 # Crystal Collector
-An interactive game made with jQuery.
+> An interactive game made with jQuery.
 ![screenshot](/images/Crystal-screenshot.png)
 <https://whitney227.github.io/Crystal-Collector/>
 
