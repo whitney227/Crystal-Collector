@@ -1,7 +1,7 @@
 # Crystal Collector
-> An interactive game made with jQuery.
-> ![screenshot](/images/Crystal-screenshot.png)
-> <https://whitney227.github.io/Crystal-Collector/>
+### An interactive game made with jQuery.
+![screenshot](/images/Crystal-screenshot.png)
+<https://whitney227.github.io/Crystal-Collector/>
 
 
 # Directions
